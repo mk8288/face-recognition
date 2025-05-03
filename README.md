@@ -9,7 +9,7 @@ This project aims to create a real-time AI system for detecting faces and object
 - Detects objects, such as bottles, and labels them in the video stream.
 
 ## Requirements
-- Python 3.x
+- Python 3.xx
 - OpenCV
 - Matplotlib
 - Tkinter
